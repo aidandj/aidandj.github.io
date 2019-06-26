@@ -5,6 +5,8 @@
 ### Rules
 
 1. Each driver gets 2 runs in a car of their choice
+    * The car must be a homologated Gambler rig
+      * Must either be in the middle of gambling, or have "completed" a previous gambler
 2. The driver is required to have a passenger who is not a builder of the vehicle being driven, or on their team
 3. The passenger is required to have a radio so that the starter can communicate with the driver.
 4. Shit talking and excuses are highly encouraged. With prizes given for the best excuse
