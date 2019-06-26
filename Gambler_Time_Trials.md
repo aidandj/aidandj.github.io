@@ -11,6 +11,7 @@
 3. The passenger is required to have a radio so that the starter can communicate with the driver.
 4. Shit talking and excuses are highly encouraged. With prizes given for the best excuse
 5. Any disputes will be decided by a shotgun race
+6. Commissioner has final say in all disputes not resolved by shotgun race
 
 ### Awards
 
